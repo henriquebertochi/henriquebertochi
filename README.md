@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/henrique-bertochi-grigol-6270b327a/" target="_blank">
+  <a href="https://www.linkedin.com/in/henriquebertochi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="33" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/_henriquebg/" target="_blank">
