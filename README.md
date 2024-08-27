@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="25" alt="instagram logo"  />
   </a>
   <a href="mailto:henriquebg.bg@outlook.com">
-    <img src="https://www.imagensempng.com.br/wp-content/uploads/2023/05/328.png" width="45" height="25" alt="microsoft-outlook logo" width="45" height="25" target="_blank">
+    <img src="https://www.imagensempng.com.br/wp-content/uploads/2023/05/328.png" width="45" height="25" alt="microsoft-outlook logo" width="45" height="35" target="_blank">
   </a>
 </div>
 
