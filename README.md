@@ -10,7 +10,8 @@
 
 ###
 
-<h4 align="left">Hi there! i'm Henrique Bertochi, a Systems Information student at FURG, currently in my 3rd semester.<br>Based in Rio Grande, RS, Brazil, I'm passionate about expanding my knowledge and tackling challenging projects.<br>- 🌳 In my free time i enjoy playing games and spending time outdoors to relax.<br>- 💻 I enjoy participating in online projects and taking courses to enhance my skills.</h4>
+<h4 align="left">Hi there! i'm Henrique Bertochi, a Systems Information student at FURG, currently in my 3rd semester.<br>Based in Rio Grande, RS, Brazil, I'm passionate about expanding my knowledge and tackling challenging projects.<br>- 🌳 In my free time i enjoy playing games and spending time outdoors to relax.<br>- 💻 I enjoy participating in online projects and taking courses to enhance my skills.<br>- 🌎 My native language is Portuguese, and I have professional proficiency in English.
+<br>- 🌐 Check out my social profiles:</h4>
 
 ###
 
