@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="25" alt="instagram logo"  />
   </a>
   <a href="mailto:henriquebg.bg@outlook.com">
-    <img src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Outlook_Logo_512px.png" alt="microsoft-outlook logo" width="35" height="25" target="_blank">
+    <img src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Outlook_Logo_512px.png" alt="microsoft-outlook logo" width="30" height="25" target="_blank">
   </a>
 </div>
 
