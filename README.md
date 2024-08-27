@@ -16,13 +16,13 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/henrique-bertochi-grigol-6270b327a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="25" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/_henriquebg/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="25" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="25" alt="instagram logo"  />
   </a>
   <a href="mailto:henriquebg.bg@outlook.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Microsoft_Office_Outlook_%282013%E2%80%932019%29.svg/2048px-Microsoft_Office_Outlook_%282013%E2%80%932019%29.svg.png" alt="microsoft-outlook logo" width="35" height="25" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Microsoft_Office_Outlook_%282013%E2%80%932019%29.svg/2048px-Microsoft_Office_Outlook_%282013%E2%80%932019%29.svg.png"alt="microsoft-outlook logo" width="35" height="25" target="_blank">
   </a>
 </div>
 
