@@ -10,8 +10,7 @@
 
 ###
 
-<h4 align="left">Hi there! i'm Henrique Bertochi, a Systems Information student at FURG, currently in my 3rd semester.<br>Based in Rio Grande, RS, Brazil, I'm passionate about expanding my knowledge and tackling challenging projects.<br>- 🌳 In my free time i enjoy playing games and spending time outdoors to relax.<br>- 💻 I enjoy participating in online projects and taking courses to enhance my skills.<br>- 🌎 My native language is Portuguese, and I have professional proficiency in English.
-<br>- 🌐 Check out my social profiles:</h4>
+<h4 align="left">Hi there! i'm Henrique Bertochi, a Systems Information student at FURG, currently in my 3rd semester.<br>Based in Rio Grande, RS, Brazil, I'm passionate about expanding my knowledge and tackling challenging projects.<br>- 🌳 In my free time i enjoy playing games and spending time outdoors to relax.<br>- 💻 I enjoy participating in online projects and taking courses to enhance my skills.<br>- 🌎 My native language is Portuguese, and I have professional proficiency in English.<br>- 🌐 Check out my social profiles:</h4>
 
 ###
 
@@ -22,8 +21,8 @@
   <a href="https://www.instagram.com/_henriquebg/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="25" alt="instagram logo"  />
   </a>
-  <a href="mailto:henriquebg.bg@outlook.com">
-    <img src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Outlook_Logo_512px.png" alt="microsoft-outlook logo" width="30" height="25" target="_blank">
+  <a href="mailto:henriquebg.bg@outlook.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="40" height="25" alt="microsoft-outlook logo"  />
   </a>
 </div>
 
