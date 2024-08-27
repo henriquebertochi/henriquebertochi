@@ -1,12 +1,14 @@
-<img align="right" height="200" src="https://github.com/user-attachments/assets/e9b90d33-4ba0-435a-8e97-d1139ca37c85"  />
-
-###
-
 <h1 align="center">Grab a coffee ☕ and enjoy the code!✨</h1>
 
 ###
 
-<h2 align="center">👩‍💻  About Me</h2>
+<br clear="both">
+
+<img align="right" height="225" src="https://github.com/user-attachments/assets/e9b90d33-4ba0-435a-8e97-d1139ca37c85"  />
+
+###
+
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
@@ -28,7 +30,7 @@
 
 ###
 
-<h2 align="left">🛠 Skills and Technologies</h2>
+<h2 align="center">🛠 Skills and Technologies</h2>
 
 ###
 
@@ -52,13 +54,13 @@
 
 ###
 
-<h2 align="left">🔥 My Stats</h2>
+<h2 align="center">🔥 My Stats</h2>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=henriquebertochi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquebertochi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=henriquebertochi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquebertochi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 
 ###
