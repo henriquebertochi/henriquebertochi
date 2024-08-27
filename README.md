@@ -21,8 +21,8 @@
   <a href="https://www.instagram.com/_henriquebg/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://is.gd/KlB8vG" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="45" height="25" alt="microsoft-outlook logo"  />
+  <a href="mailto:henriquebg.bg@outlook.com">
+    <img src="(https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg)" width="45" height="25" alt="microsoft-outlook logo" target="_blank">
   </a>
 </div>
 
