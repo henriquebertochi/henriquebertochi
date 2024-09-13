@@ -6,11 +6,13 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="200" src="https://github.com/user-attachments/assets/fe294f5c-81bf-4a80-9a5d-339fe1871356"  />
 
 ###
 
-<h4 align="left">Hi there! i'm Henrique Bertochi, a Systems Information student at FURG, currently in my 3rd semester.<br>Based in Rio Grande, RS, Brazil, I'm passionate about expanding my knowledge and tackling challenging projects.<br>- 📊 Currently working on a risk management project for FURG using Power BI.<br>- 🌳 In my free time i enjoy playing games and spending time outdoors to relax.<br>- 💻 I enjoy participating in online projects and taking courses to enhance my skills.<br>- 🌎 My native language is Portuguese, and I have professional proficiency in English.<br>- 🌐 Check out my social networks:</h4>
+<h4 align="left">Hi there! i'm Henrique Bertochi, a Systems Information student at FURG, currently in my 3rd semester.<br>Based in Rio Grande, RS, Brazil, I'm passionate about expanding my knowledge and tackling challenging projects.<br>- 📊 Currently working on a risk management project for FURG using Power BI.<br>- 🌳 In my free time i enjoy playing games and spending time outdoors to relax.<br>- 💻 I enjoy participating in online projects and taking courses to enhance my skills.<br>- 🌎 My native language is Portuguese, and I have professional proficiency in English.<br>- 🌐 Check out my social profiles:</h4>
 
 ###
 
@@ -47,6 +49,8 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
   <img width="20" />
+  <img src="https://skillicons.dev/icons?i=lua" height="35" alt="lua logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=ps" height="35" alt="adobephotoshop logo"  />
 </div>
 
@@ -56,9 +60,17 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=henriquebertochi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquebertochi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=henriquebertochi&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquebertochi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="120" alt="languages graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/henriquebertochi/henriquebertochi/output/snake.svg" alt="Snake animation" />
 
 ###
