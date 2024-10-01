@@ -52,6 +52,8 @@
   <img src="https://skillicons.dev/icons?i=lua" height="35" alt="lua logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=ps" height="35" alt="adobephotoshop logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=ps](https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png)" height="35" alt="powerbi logo"  />
 </div>
 
 ###
