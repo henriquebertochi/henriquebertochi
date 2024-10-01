@@ -66,11 +66,3 @@
   <img src="https://streak-stats.demolab.com?user=henriquebertochi&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquebertochi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="120" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/henriquebertochi/henriquebertochi/output/snake.svg" alt="Snake animation" />
-
-###
